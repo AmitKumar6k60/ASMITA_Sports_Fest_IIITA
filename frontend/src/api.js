@@ -3,7 +3,7 @@
 import axios from 'axios';
 
 const instance = axios.create({
-   baseURL: 'http://localhost:5001/api',
+   baseURL: 'https://asmita.onrender.com/api',
 });
 
 instance.interceptors.request.use((config) => {
