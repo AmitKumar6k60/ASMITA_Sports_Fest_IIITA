@@ -1,6 +1,8 @@
 # ASMITA ( IIIT Allahabad Sports Fest ) 
 - Live Link : [asmitaiiita.vercel.app](https://asmitaiiita.vercel.app)
-  
+
+  <img width="1439" alt="Screenshot 2024-11-05 at 7 07 43 PM" src="https://github.com/user-attachments/assets/b3550fe9-d38c-4d93-9784-26c6df46f8d9">
+
 # Sports Event Management System
 A comprehensive and fullstack web application for managing sports events, allowing users to register, view matches schedule ( live or upcoming ) , and stay updated on announcements, while organizers manage events, participants, and schedules.
 
