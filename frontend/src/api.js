@@ -3,7 +3,7 @@
 import axios from 'axios';
 
 const instance = axios.create({
-   baseURL: 'https://asmita.onrender.com/api',
+   baseURL: 'https://asmita-backend.vercel.app/api',
 });
 
 instance.interceptors.request.use((config) => {
