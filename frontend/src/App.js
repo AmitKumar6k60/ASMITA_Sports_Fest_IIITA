@@ -50,12 +50,12 @@ function Main() {
         <hr className='my-3'/>
         {isAdminOrOrganizer && (
           <>
-            <SidebarItem to="/CreateEvent" icon={<CalendarPlus size={20}/>} text="Create Event" />
-            <SidebarItem to="/users" icon={<SquareUser size={20}/>} text="All Users" />
+            <SidebarItem to="/CreateEvent" icon={<CalendarPlus size={20}/>} text="Create_Event" />
+            <SidebarItem to="/users" icon={<SquareUser size={20}/>} text="All_Users" />
             <SidebarItem to="/EventParticipants" icon={<BookUser size={20}/>} text="Participants" />
-            <SidebarItem to="/scheduleMatch" icon={<CalendarPlus2 size={20}/>} text="Schedule Match" />
-            <SidebarItem to="/matches" icon={<Volleyball size={20}/>} text="All Matches" />
-            <SidebarItem to="/CreateAnnouncements" icon={<Rss size={20}/>} text="Push Announcements" />
+            <SidebarItem to="/scheduleMatch" icon={<CalendarPlus2 size={20}/>} text="Schedule_Match" />
+            <SidebarItem to="/matches" icon={<Volleyball size={20}/>} text="All_Matches" />
+            <SidebarItem to="/CreateAnnouncements" icon={<Rss size={20}/>} text="Push_Announcements" />
           </>
         )}
       </Sidebar>
